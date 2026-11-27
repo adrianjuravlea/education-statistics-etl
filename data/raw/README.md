@@ -1,0 +1,7 @@
+# Census source and attribution
+
+**Source** — National Institute of Statistics of Romania (INS), Population and Housing Census 2021, final results, Table 3.01, resident population by completed level of education, sex and area of residence at 1 December 2021. [Publisher release page](https://www.recensamantromania.ro/rezultate-rpl-2021/rezultate-definitive-caracteristici-educationale-demografice/) · [Publisher workbook link](https://www.recensamantromania.ro/wp-content/uploads/2023/07/Tabel-3.01.xlsx)
+
+The local source, copy and official download are byte-identical. SHA-256 `aa97cea3fe3faa0a99d369baf83c1276dcdb49cebc2f9ab660c1c1ca6e194040`. All 43 sheets are visible and there are no cell comments. Common creator, modifier and descriptive fields inspected were empty. Values marked * are confidential. A dash remains unresolved.
+
+Article 32(5) of Romania’s Law 226/2009 requires source attribution when users publish official statistics or derived data. The repository’s derived extracts preserve attribution, original confidentiality and source identifiers. No explicit redistribution licence for the original workbook file was located on the release page. The local byte-for-byte copy is ignored by Git. Obtain it from INS for reproduction. The MIT licence applies to the code and original project documentation. [Consolidated law](https://legislatie.just.ro/Public/DetaliiDocumentAfis/190454)

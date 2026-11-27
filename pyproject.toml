@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "education-statistics-etl"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = ["openpyxl>=3.1", "pandas>=2.1"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+postgres = ["psycopg[binary]>=3.1,<4"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

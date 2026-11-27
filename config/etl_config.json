@@ -1,0 +1,13 @@
+{
+  "territories": "territories.csv",
+  "classification": "education_classification.csv",
+  "exhaustive_parents": [
+    "doctorate",
+    "masters",
+    "bachelors",
+    "long_university",
+    "secondary",
+    "upper_secondary",
+    "high_school"
+  ]
+}

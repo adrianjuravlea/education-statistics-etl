@@ -1,0 +1,247 @@
+{
+  "severity": {
+    "INFO": 5710,
+    "NOT_EVALUABLE": 357
+  },
+  "rule": {
+    "DQ001": {
+      "INFO": 1
+    },
+    "DQ002": {
+      "INFO": 43
+    },
+    "DQ003": {
+      "INFO": 43
+    },
+    "DQ018": {
+      "INFO": 1
+    },
+    "DQ011": {
+      "INFO": 2058,
+      "NOT_EVALUABLE": 49
+    },
+    "DQ012": {
+      "INFO": 1990,
+      "NOT_EVALUABLE": 117
+    },
+    "DQ013": {
+      "INFO": 1378,
+      "NOT_EVALUABLE": 127
+    },
+    "DQ014": {
+      "INFO": 183,
+      "NOT_EVALUABLE": 64
+    },
+    "DQ004": {
+      "INFO": 1
+    },
+    "DQ005": {
+      "INFO": 1
+    },
+    "DQ006": {
+      "INFO": 1
+    },
+    "DQ007": {
+      "INFO": 1
+    },
+    "DQ008": {
+      "INFO": 1
+    },
+    "DQ009": {
+      "INFO": 1
+    },
+    "DQ010": {
+      "INFO": 1
+    },
+    "DQ015": {
+      "INFO": 1
+    },
+    "DQ016": {
+      "INFO": 1
+    },
+    "DQ017": {
+      "INFO": 1
+    },
+    "DQ019": {
+      "INFO": 1
+    },
+    "DQ020": {
+      "INFO": 1
+    },
+    "DQ021": {
+      "INFO": 1
+    }
+  },
+  "territory": {
+    "workbook": {
+      "INFO": 15
+    },
+    "ro": {
+      "INFO": 318,
+      "NOT_EVALUABLE": 64
+    },
+    "ro_alba": {
+      "INFO": 130,
+      "NOT_EVALUABLE": 5
+    },
+    "ro_arad": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_arges": {
+      "INFO": 135
+    },
+    "ro_bacau": {
+      "INFO": 135
+    },
+    "ro_bihor": {
+      "INFO": 133,
+      "NOT_EVALUABLE": 2
+    },
+    "ro_bistrita_nasaud": {
+      "INFO": 130,
+      "NOT_EVALUABLE": 5
+    },
+    "ro_botosani": {
+      "INFO": 127,
+      "NOT_EVALUABLE": 8
+    },
+    "ro_brasov": {
+      "INFO": 133,
+      "NOT_EVALUABLE": 2
+    },
+    "ro_braila": {
+      "INFO": 127,
+      "NOT_EVALUABLE": 8
+    },
+    "ro_buzau": {
+      "INFO": 126,
+      "NOT_EVALUABLE": 9
+    },
+    "ro_caras_severin": {
+      "INFO": 129,
+      "NOT_EVALUABLE": 6
+    },
+    "ro_calarasi": {
+      "INFO": 129,
+      "NOT_EVALUABLE": 6
+    },
+    "ro_cluj": {
+      "INFO": 135
+    },
+    "ro_constanta": {
+      "INFO": 133,
+      "NOT_EVALUABLE": 2
+    },
+    "ro_covasna": {
+      "INFO": 128,
+      "NOT_EVALUABLE": 7
+    },
+    "ro_dambovita": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_dolj": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_galati": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_giurgiu": {
+      "INFO": 127,
+      "NOT_EVALUABLE": 8
+    },
+    "ro_gorj": {
+      "INFO": 126,
+      "NOT_EVALUABLE": 9
+    },
+    "ro_harghita": {
+      "INFO": 128,
+      "NOT_EVALUABLE": 7
+    },
+    "ro_hunedoara": {
+      "INFO": 129,
+      "NOT_EVALUABLE": 6
+    },
+    "ro_ialomita": {
+      "INFO": 127,
+      "NOT_EVALUABLE": 8
+    },
+    "ro_iasi": {
+      "INFO": 127,
+      "NOT_EVALUABLE": 8
+    },
+    "ro_ilfov": {
+      "INFO": 135
+    },
+    "ro_maramures": {
+      "INFO": 130,
+      "NOT_EVALUABLE": 5
+    },
+    "ro_mehedinti": {
+      "INFO": 126,
+      "NOT_EVALUABLE": 9
+    },
+    "ro_mures": {
+      "INFO": 133,
+      "NOT_EVALUABLE": 2
+    },
+    "ro_neamt": {
+      "INFO": 125,
+      "NOT_EVALUABLE": 10
+    },
+    "ro_olt": {
+      "INFO": 124,
+      "NOT_EVALUABLE": 11
+    },
+    "ro_prahova": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_satu_mare": {
+      "INFO": 125,
+      "NOT_EVALUABLE": 10
+    },
+    "ro_salaj": {
+      "INFO": 126,
+      "NOT_EVALUABLE": 9
+    },
+    "ro_sibiu": {
+      "INFO": 131,
+      "NOT_EVALUABLE": 4
+    },
+    "ro_suceava": {
+      "INFO": 135
+    },
+    "ro_teleorman": {
+      "INFO": 125,
+      "NOT_EVALUABLE": 10
+    },
+    "ro_timis": {
+      "INFO": 133,
+      "NOT_EVALUABLE": 2
+    },
+    "ro_tulcea": {
+      "INFO": 124,
+      "NOT_EVALUABLE": 11
+    },
+    "ro_vaslui": {
+      "INFO": 124,
+      "NOT_EVALUABLE": 11
+    },
+    "ro_valcea": {
+      "INFO": 129,
+      "NOT_EVALUABLE": 6
+    },
+    "ro_vrancea": {
+      "INFO": 124,
+      "NOT_EVALUABLE": 11
+    },
+    "ro_bucharest": {
+      "INFO": 79,
+      "NOT_EVALUABLE": 56
+    }
+  }
+}
